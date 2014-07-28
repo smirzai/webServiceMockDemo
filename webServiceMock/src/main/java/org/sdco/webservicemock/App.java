@@ -1,4 +1,4 @@
-package org.saeidmirzaei;
+package org.sdco.webservicemock;
 
 /**
  * Hello world!
